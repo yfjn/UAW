@@ -1,0 +1,11 @@
+img_name:green_001.png P:0.0000 R:0.0000 F:0.0000
+img_name:green_002.png P:0.0000 R:0.0000 F:0.0000
+img_name:green_003.png P:0.0000 R:0.0000 F:0.0000
+img_name:green_004.png P:0.0000 R:0.0000 F:0.0000
+img_name:green_005.png P:0.0000 R:0.0000 F:0.0000
+img_name:green_006.png P:0.0000 R:0.0000 F:0.0000
+img_name:green_007.png P:0.0000 R:0.0000 F:0.0000
+img_name:green_008.png P:0.0000 R:0.0000 F:0.0000
+img_name:green_009.png P:1.0000 R:0.0018 F:0.0035
+img_name:green_010.png P:1.0000 R:0.0013 F:0.0027
+patch_size:30 lambdaw:0.01 iter:27 P:1.0000 R:0.0013 F:0.0027

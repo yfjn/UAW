@@ -1,0 +1,2 @@
+patch_size:30 iter:27 noisename:Gaussian Noise factor:0.05 P:0.4317 R:0.0117 F:0.0227
+patch_size:30 iter:27 noisename:Gaussian Noise factor:0.1 P:0.6327 R:0.2051 F:0.3098

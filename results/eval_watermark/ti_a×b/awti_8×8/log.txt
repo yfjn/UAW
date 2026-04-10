@@ -1,0 +1,14 @@
+results/eval_watermark/ti_a×b/awti_8×8/0_ti
+results/eval_watermark/ti_a×b/awti_8×8/0_ti_gray_histogram.png is saved with fixed threshold 154 (0.604), pixels below this value are considered as text
+检测到的列对称轴: [4, 240, 480, 720, 960, 1200, 1230]
+检测到的行对称轴: [1, 240, 480, 720, 960, 1200, 1439]
+x方向非零差值频率(前10个):[(240, 4), (236, 1), (30, 1)]
+y方向非零差值频率(前10个):[(240, 4), (239, 2)]
+推断的水印块大小w*h: 240x240
+x方向取模后值(前10个):[(0, 5), (4, 1), (30, 1)]
+y方向取模后值(前10个):[(0, 5), (1, 1), (239, 1)]
+divide最左上角水印块的起始位置: (0, 0)
+Acc before: 0.5781, Acc after: 0.3594
+
+results/eval_watermark/ti_a×b/awti_8×8/1_ti
+results/eval_watermark/ti_a×b/awti_8×8/1_ti_gray_histogram.png is saved with fixed threshold 154 (0.604), pixels below this value are considered as text

@@ -1,0 +1,2 @@
+patch_size:30 iter:27 noisename:Saturation factor:0.85 P:0.4035 R:0.0045 F:0.0089
+patch_size:30 iter:27 noisename:Saturation factor:1.15 P:0.5600 R:0.0027 F:0.0054

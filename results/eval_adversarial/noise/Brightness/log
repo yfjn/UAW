@@ -1,0 +1,2 @@
+patch_size:30 iter:27 noisename:Brightness factor:0.85 P:0.3429 R:0.0023 F:0.0046
+patch_size:30 iter:27 noisename:Brightness factor:1.15 P:0.5780 R:0.1658 F:0.2577

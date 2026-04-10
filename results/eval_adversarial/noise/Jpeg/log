@@ -1,0 +1,3 @@
+patch_size:30 iter:27 noisename:Jpeg factor:90 P:0.4459 R:0.0064 F:0.0127
+patch_size:30 iter:27 noisename:Jpeg factor:70 P:0.4759 R:0.0134 F:0.0261
+patch_size:30 iter:27 noisename:Jpeg factor:50 P:0.5406 R:0.0337 F:0.0634

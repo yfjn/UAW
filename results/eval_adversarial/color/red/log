@@ -1,0 +1,11 @@
+img_name:red_001.png P:0.0000 R:0.0000 F:0.0000
+img_name:red_002.png P:0.0000 R:0.0000 F:0.0000
+img_name:red_003.png P:0.0000 R:0.0000 F:0.0000
+img_name:red_004.png P:0.0000 R:0.0000 F:0.0000
+img_name:red_005.png P:0.0000 R:0.0000 F:0.0000
+img_name:red_006.png P:0.0000 R:0.0000 F:0.0000
+img_name:red_007.png P:0.5294 R:0.0125 F:0.0245
+img_name:red_008.png P:0.5294 R:0.0108 F:0.0211
+img_name:red_009.png P:0.5714 R:0.0376 F:0.0705
+img_name:red_010.png P:0.6107 R:0.0573 F:0.1048
+patch_size:30 lambdaw:0.01 iter:27 P:0.6107 R:0.0573 F:0.1048

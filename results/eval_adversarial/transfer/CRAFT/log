@@ -1,0 +1,4 @@
+patch_size:30 lambdaw:0.01 iter:27 MUI:0.09 P:0.3043 R:0.0014 F:0.0027【表12：Only Adversarial】
+patch_size:30 random P:0.9533 R:0.9058 F:0.9289【表12：Only Watermarking】
+patch_size:30 lambdaw:0.01 iter:27 MUI:0.09 P:0.2727 R:0.0012 F:0.0023【表12：Ours】
+patch_size:30 lambdaw:0.01 lambday:0.01 iter:27 MUI:0.09 P:0.0000 R:0.0000 F:0.0000

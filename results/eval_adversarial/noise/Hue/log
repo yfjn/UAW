@@ -1,0 +1,2 @@
+patch_size:30 iter:27 noisename:Hue factor:-0.1 P:0.5213 R:0.0095 F:0.0187
+patch_size:30 iter:27 noisename:Hue factor:0.1 P:0.4600 R:0.0045 F:0.0089

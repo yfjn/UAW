@@ -1,0 +1,2 @@
+patch_size:30 iter:27 noisename:Resize factor:0.8 P:0.5714 R:0.0177 F:0.0342
+patch_size:30 iter:27 noisename:Resize factor:1.5 P:0.4837 R:0.1261 F:0.2001

@@ -1,0 +1,2 @@
+patch_size:30 iter:27 noisename:Crop factor:0.6 P:0.0494 R:0.0009 F:0.0017
+patch_size:30 iter:27 noisename:Crop factor:0.8 P:0.0192 R:0.0004 F:0.0008

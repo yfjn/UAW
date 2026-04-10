@@ -1,0 +1,2 @@
+patch_size:30 iter:27 noisename:Gaussian Blur factor:0.5 P:0.4513 R:0.0099 F:0.0194
+patch_size:30 iter:27 noisename:Gaussian Blur factor:1.0 P:0.6840 R:0.5216 F:0.5919

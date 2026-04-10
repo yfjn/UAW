@@ -1,0 +1,17 @@
+img_name:Arabic_awti.png P:0.0000 R:0.0000 F:0.0000
+img_name:Chinese_awti.png P:0.6667 R:0.0238 F:0.0460
+img_name:English_awti.png P:0.0000 R:0.0000 F:0.0000
+img_name:French_awti.png P:0.7381 R:0.1325 F:0.2246
+img_name:Japanese_awti.png P:0.0000 R:0.0000 F:0.0000
+img_name:Russian_awti.png P:0.5652 R:0.0459 F:0.0850
+img_name:Spanish_awti.png P:0.8286 R:0.2339 F:0.3648
+img_name:Thai_awti.png P:0.7273 R:0.1046 F:0.1829
+[res]None[model]CRAFT--[R]0.0557[P]0.7266[F]0.1034
+
+============================================================
+[Timing Statistics] STD Model Evaluation
+============================================================
+CRAFT: 0.6734 seconds per image
+Average across all models: 0.6734 seconds per image
+============================================================
+

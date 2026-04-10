@@ -1,0 +1,19 @@
+img_name:0_awti_cropped.png P:0.6838 R:0.6838 F:0.6838
+img_name:1_awti_cropped.png P:0.9669 R:0.9563 F:0.9615
+img_name:2_awti_cropped.png P:0.7905 R:0.4323 F:0.5589
+img_name:3_awti_cropped.png P:0.8793 R:0.8743 F:0.8768
+img_name:4_awti_cropped.png P:0.7917 R:0.7644 F:0.7778
+img_name:5_awti_cropped.png P:0.7761 R:0.8814 F:0.8254
+img_name:6_awti_cropped.png P:0.0000 R:0.0000 F:0.0000
+img_name:7_awti_cropped.png P:0.3947 R:0.1500 F:0.2174
+img_name:8_awti_cropped.png P:0.5915 R:0.2428 F:0.3443
+img_name:9_awti_cropped.png P:0.8621 R:0.1773 F:0.2941
+960/CRAFT:0.5269/0.7921/0.6328
+
+============================================================
+[Timing Statistics] STD Model Evaluation
+============================================================
+CRAFT: 1.1737 seconds per image
+Average across all models: 1.1737 seconds per image
+============================================================
+

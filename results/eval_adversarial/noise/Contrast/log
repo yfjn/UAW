@@ -1,0 +1,2 @@
+patch_size:30 iter:27 noisename:Contrast factor:0.85 P:0.4524 R:0.0037 F:0.0073
+patch_size:30 iter:27 noisename:Contrast factor:1.15 P:0.3929 R:0.0021 F:0.0043

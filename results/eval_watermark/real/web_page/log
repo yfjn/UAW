@@ -1,0 +1,12 @@
+
+============================================================
+[Timing Statistics] Watermark Modulation
+============================================================
+Average total time per image: 0.2363 seconds
+  - Bit-template Mapping: 0.0013 seconds
+  - Flip-based Unit Construction: 0.0000 seconds
+  - Tiling for Underpainting Generation: 0.0005 seconds
+  - Fusion with Text Image (overlay): 0.2346 seconds
+Total images processed: 8
+============================================================
+

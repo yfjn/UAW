@@ -1,0 +1,11 @@
+img_name:yellow_001.png P:0.0000 R:0.0000 F:0.0000
+img_name:yellow_002.png P:0.0000 R:0.0000 F:0.0000
+img_name:yellow_003.png P:0.0000 R:0.0000 F:0.0000
+img_name:yellow_004.png P:0.0000 R:0.0000 F:0.0000
+img_name:yellow_005.png P:0.0000 R:0.0000 F:0.0000
+img_name:yellow_006.png P:0.0000 R:0.0000 F:0.0000
+img_name:yellow_007.png P:0.0000 R:0.0000 F:0.0000
+img_name:yellow_008.png P:0.0000 R:0.0000 F:0.0000
+img_name:yellow_009.png P:0.0000 R:0.0000 F:0.0000
+img_name:yellow_010.png P:0.0000 R:0.0000 F:0.0000
+patch_size:30 lambdaw:0.01 iter:27 P:0.0000 R:0.0000 F:0.0000

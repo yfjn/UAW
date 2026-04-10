@@ -1,0 +1,2 @@
+patch_size:30 lambdaw:0.01 iter:27 MUI:0.09 P:0.8845 R:0.5652 F:0.6897
+patch_size:30 random P:0.9842 R:0.9776 F:0.9809
