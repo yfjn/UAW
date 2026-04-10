@@ -146,9 +146,9 @@ python UAWUP/eval_watermark/extract_dir.py --awti_dir results/eval_watermark/rea
 python UAWUP/eval_adversarial/eval_dir.py --img_dir results/eval_watermark/real/web_page --gt_img_dir AllData/web_page --save_root results/eval_adversarial/real/web_page
 ```
 
-<img src="results\plots\image-20260410195006043.png" alt="image-20260410195006043" style="zoom: 25%;" />
+<img src="results\plots\image-20260410195006043.png" alt="image-20260410195006043" style="zoom:25%;" />
 
-<img src="results\plots\image-20260410194951922.png" alt="image-20260410194951922" style="zoom:25%;" />
+<img src="results\plots\image-20260410213128176.png" alt="image-20260410213128176" style="zoom:25%;" />
 
 Complexity of Background
 
