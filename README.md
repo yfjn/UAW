@@ -124,7 +124,7 @@ python UAWUP/eval_watermark/extract_fontsize.py
 python UAWUP/eval_adversarial/eval_character_size.py
 ```
 
-![image-20260410200524208](results\plots\image-20260410200524208.png)
+<img src="results\plots\image-20260410200524208.png" alt="image-20260410200524208" style="zoom: 33%;" />
 
 Character Color
 
@@ -207,7 +207,7 @@ python UAWUP/eval_watermark/extract_dir.py  --awti_dir results/eval_watermark/gr
 python UAWUP/eval_adversarial/eval_dir.py --img_dir results/eval_watermark/gray/print_shoot/100cm --gt_img_dir results/eval_watermark/ti_a×b/ti --save_root results/eval_adversarial/gray/print_shoot/100cm
 ```
 
-<img src="results\plots\image-20260410195330018.png" alt="image-20260410195330018" style="zoom:16%;" />
+<img src="results\plots\image-20260410195330018.png" alt="image-20260410195330018" style="zoom:15%;" />
 
 <img src="results\plots\image-20260410195346794.png" alt="image-20260410195346794" style="zoom:25%;" />
 
